@@ -54,8 +54,9 @@ li{
     display: flex;
     font-size: 10px;
     color:grey;
-    gap: 13px;
-    bottom:0;
+    padding-left: 0px;
+    gap: 8px;
+    bottom:2ch;
 }
 .library{
     min-height: 75vh;
@@ -65,5 +66,8 @@ li{
     color:grey;
     text-decoration: none;
 
+}
+.space{
+    gap: 30px;
 }
 
